@@ -10,7 +10,7 @@ let fs = require('fs')
 let path = require('path')
 let util = require('util')
 let WAConnection = simple.WAConnection(_WAConnection)
-/* THANK FOR NURUTOMO
+/* CREDIT BY NURUTOMO
 */
 
 global.owner = ['6281515860089'] // Put your number here
